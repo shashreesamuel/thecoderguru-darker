@@ -1,0 +1,21 @@
+{
+    "name": "thecoderguru-darker",
+    "displayName": "thecoderguru-darker",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TheCoderGuru Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TheCoderGuru Darker-color-theme.json"
+            }
+        ]
+    }
+}
