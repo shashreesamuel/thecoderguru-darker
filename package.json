@@ -1,8 +1,12 @@
 {
-    "name": "thecoderguru-darker",
+    "name": "TheCoderGuru Darker",
     "displayName": "thecoderguru-darker",
-    "description": "",
-    "version": "0.0.1",
+    "description": "A darker theme to help you to code faster and become more productive with less errors",
+    "version": "0.0.2",
+    "publisher": "ShashreeSamuel",
+    "repository": {
+        "url": "https://www.github.com/TheCoderGuru/thecoderguru-darker"
+    },
     "engines": {
         "vscode": "^1.68.0"
     },

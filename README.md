@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "thecoderguru-darker"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# TheCoderGuru Darker
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A darker theme to the TheCoderGuru Dark designed to help you be more 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+productive and code faster and easier during the night.
 
-**Enjoy!**
+I hope you enjoy using this color theme as much as I enjoyed compiling the colors together.
+
+
+<br>
+<br>
+<br>
+
+**Cheers and happy coding**
