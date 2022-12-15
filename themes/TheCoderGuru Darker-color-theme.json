@@ -1,7 +1,7 @@
 {
 	"name": "TheCoderGuru Darker",
 	"colors": {
-		"editor.background": "#252a4e",
+		"editor.background": "#1c203d",
 		"editor.foreground": "#eeffff",
 		"button.hoverBackground": "#ffae00",
 		"activityBar.inactiveForeground": "#555faf",
